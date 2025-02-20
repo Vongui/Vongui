@@ -9,6 +9,7 @@
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
+            height = "150"
             src="https://custom-icon-badges.demolab.com/github/followers/Vongui?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
