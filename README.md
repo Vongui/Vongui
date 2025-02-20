@@ -4,7 +4,7 @@
 
 👋 Olá, pessoal! Me chamo Guilherme Moraes, um entusiasta da tecnologia e estudante de Ciência da Computação no IFSP-PEP. Estou no início da minha jornada no mundo da programação, mas já estou apaixonado por tudo que envolve codificação e inovação!
 
-<p align="left">
+<div align="center">
     <a href="https://github.com/Vongui?tab=followers">
         <img 
             alt="Seguidores" 
@@ -19,7 +19,7 @@
             src="https://custom-icon-badges.demolab.com/github/stars/Vongui?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-</p>
+</div>
 
 ---
 
