@@ -8,8 +8,7 @@
     <a href="https://github.com/Vongui?tab=followers">
         <img 
             alt="Seguidores" 
-            title="Me siga no GitHub" 
-            height = "150"
+            title="Me siga no GitHub"
             src="https://custom-icon-badges.demolab.com/github/followers/Vongui?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
@@ -89,11 +88,11 @@
 
 ### 📊 Estatísticas
 
-<p>
+<div align = "center">
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="150" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=Vongui&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
@@ -101,9 +100,9 @@
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="150" 
       style="padding-right: 10px;"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vongui&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
-</p>
+</div>
