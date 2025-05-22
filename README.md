@@ -2,7 +2,7 @@
 
 **`Estudante de Ciência da Computação`**
 
-👋 Olá, pessoal! Me chamo Guilherme Moraes, um entusiasta da tecnologia e estudante de Ciência da Computação no IFSP-PEP. Estou no início da minha jornada no mundo da programação, mas já estou apaixonado por tudo que envolve codificação e inovação!
+Olá, pessoal! Me chamo Guilherme Moraes, um entusiasta da tecnologia e estudante de Ciência da Computação no IFSP-PEP. Estou no início da minha jornada no mundo da programação, mas já estou apaixonado por tudo que envolve codificação e inovação!
 
 ---
 
